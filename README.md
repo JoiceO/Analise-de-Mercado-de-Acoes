@@ -1,1 +1,1 @@
-Por meio das ações da Tesla, de 2019 a julho de 2021, foram analisados: cada atributo do dataframe gerado, ROI, média móvel, SRI, medidas de assimetria, medidas de curtose e, por fim, um exemplo de estratégia.
+Análise e interpretação das ações da Tesla usando ferramentas e técnicas da área de Ciência de Dados |  Aula em 02/08/2021 - Exercício feito durante a live do Victor Barros
